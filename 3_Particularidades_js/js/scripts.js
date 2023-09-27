@@ -5,7 +5,7 @@ console.log("Último");
 
 
 console.log("Mais um console.log");
-
+// Declara uma variável
 var a = "teste";
 
 console.log(a);
