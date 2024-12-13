@@ -58,3 +58,5 @@ console.log(5 > 2 || "Matheus" === 1);
 
 
 console.log(5 > 2 || 5 > 100);
+console.log(!true);
+console.log(5 > 2);
